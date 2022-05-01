@@ -1,0 +1,17 @@
+.userdetails {
+  font-size: 1em;
+  border: 1px solid black;
+}
+span {
+  font-weight: bolder;
+}
+
+.signal {
+  cursor: pointer;
+
+  font-weight: bolder;
+}
+
+.notification {
+  display: none;
+}

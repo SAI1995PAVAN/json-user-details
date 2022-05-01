@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.page {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.userinfo {
+  width: 50%;
+}
+
+.message {
+  width: 50%;
+  color: green;
+}
